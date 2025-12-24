@@ -1,6 +1,7 @@
 # Hi there, I'm Baran Basaran 👋
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Special+Elite&size=20&pause=1000&width=650&height=80&lines=if+you+cant+measure+it+you+can't+manage+it!;Data+is+the+new+oil.+-+Clive+Humby;cogito+ergo+sum+-Descartes;We+all+carry+our+prisons+with+us.;Nas%C4%B1l+olsa+%C3%B6leceksin+kendi+yanl%C4%B1%C5%9Flar%C4%B1n%C4%B1n+do%C4%9Frusunda.+-A%C4%B0)](https://git.io/typing-svg)
+
 I'm a Computer Engineer passionate about Artificial Intelligence and Cloud Infrastructure. I love deploying LLMs to production, building computer vision projects, and working with Kubernetes and Docker to make AI systems scalable.
 
 Currently focused on fine-tuning large language models, deploying AI solutions to cloud platforms, and experimenting with the latest techniques in machine learning. I enjoy turning research papers into working code and solving real-world problems with AI.
