@@ -13,7 +13,7 @@ I enjoy discussing AI, cloud architecture, and innovative tech solutions. If you
 - **Computer Vision Projects:** Developing real-time object detection systems with YOLOv8 and Arduino integration
 - **AI Research:** Staying current with the latest research papers and implementing state-of-the-art techniques
 
-### 🔥 Featured Projects
+## 🔥 Featured Projects
 
 - **[LanPilot](https://github.com/basaranbaran/LanPilot)** ⭐ 3 - A low-latency, browser-based remote desktop controller for local networks. Control your PC via smartphone without internet access.
 
