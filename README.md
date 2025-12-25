@@ -39,13 +39,4 @@ Let's connect if you're working on something exciting in AI, cloud infrastructur
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🌍 Where I've Worked & Studied
-
-* 🇳🇱 1 year remote work with Netherlands-based startup (full English communication)
-* 🇺🇸 6 months studying and living in Washington D.C., USA  
-* 🇬🇧 Freelance AI projects for UK-based clients
-* 🇹🇷 Currently based in Istanbul, Turkey
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 **Let's build something impactful together!** Feel free to reach out if you're working on interesting AI projects or just want to chat about tech.
