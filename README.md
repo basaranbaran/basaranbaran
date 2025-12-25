@@ -8,10 +8,7 @@ Currently focused on fine-tuning large language models, deploying AI solutions t
 
 Let's connect if you're working on something exciting in AI, cloud infrastructure, or innovative tech solutions!
 
-* 💼 <strong>LinkedIn:</strong> 
-<a href="https://www.linkedin.com/in/baran-basaran/" target="_blank" rel="noopener noreferrer">
-Connect with me
-</a>
+* 💼 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/baran-basaran/" target="_blank" rel="noopener noreferrer"> Connect with me </a>
 * 📧 **Email:** baranbasaran01@hotmail.com
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
