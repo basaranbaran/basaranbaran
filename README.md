@@ -21,8 +21,6 @@ Let's connect if you're working on something exciting in AI, cloud infrastructur
 
 * **[LLM Deployment to Google Vertex AI](https://github.com/basaranbaran/LLM-Deployment-to-Google-Vertex-AI)** - Step-by-step guide to deploying Pixtral 12B on Google Cloud Vertex AI using custom containers and A100 GPUs.
 
-* **[AI Infiltrator Game](https://github.com/basaranbaran/ai-infiltrator-game)** - A detective game where you identify AI agents among humans - survival and investigation against AI.
-
 * **[Wikipedia Speedrun AI](https://github.com/basaranbaran/wikipedia_speedrun_ai)** - AI solution for the Wikipedia speedrun game using sentence transformers and LLMs.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
