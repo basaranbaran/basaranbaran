@@ -33,8 +33,6 @@ Let's connect if you're working on something exciting in AI, cloud infrastructur
 
 * **Learning by Building:** I stay current with latest AI research papers and immediately implement interesting techniques in projects.
 
-* **International Collaboration:** Worked remotely with teams in Netherlands, USA, and UK - love diverse perspectives in tech.
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 **Let's build something impactful together!** Feel free to reach out if you're working on interesting AI projects or just want to chat about tech.
